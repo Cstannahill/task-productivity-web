@@ -1,0 +1,13 @@
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\bin\Debug\net6.0\Sabio.Models.deps.json
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\bin\Debug\net6.0\Sabio.Models.dll
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\bin\Debug\net6.0\Sabio.Models.pdb
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\Sabio.Models.csproj.AssemblyReference.cache
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\Sabio.Models.GeneratedMSBuildEditorConfig.editorconfig
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\Sabio.Models.AssemblyInfoInputs.cache
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\Sabio.Models.AssemblyInfo.cs
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\Sabio.Models.csproj.CoreCompileInputs.cache
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\Sabio.Models.sourcelink.json
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\Sabio.Models.dll
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\refint\Sabio.Models.dll
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\Sabio.Models.pdb
+T:\Code\ProductionFolder\TaskProjReborn\dotnet\Sabio.Models\obj\Debug\net6.0\ref\Sabio.Models.dll

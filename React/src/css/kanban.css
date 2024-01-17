@@ -1,0 +1,14 @@
+/* Set the height of the scrollbar track */
+.kanban-container::-webkit-scrollbar-track {
+  height: 1rem;
+}
+
+/* Set the height and color of the scrollbar thumb */
+.kanban-container::-webkit-scrollbar-thumb {
+  height: 1rem;
+  background-color: #ccc;
+}
+
+.kanban-container {
+  padding-bottom: 1.5rem;
+}
